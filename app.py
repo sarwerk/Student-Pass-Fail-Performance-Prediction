@@ -126,7 +126,7 @@ def predict_student(bundle, model_name, student_input):
     proba = model.predict_proba(X_use)[0]
     return pred, proba
 
-
+#predict student result
 # --------------------------------------------------------------------------
 # D) EXPLAINABILITY MODULE
 # --------------------------------------------------------------------------
