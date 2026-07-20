@@ -73,7 +73,7 @@ def preprocess_data(df):
         "X_train_scaled": X_train_scaled, "X_test_scaled": X_test_scaled,
         "scaler": scaler,
     }
-
+#load train machine learning model
 
 @st.cache_resource(show_spinner=False)
 def run_model_or_algorithm(_df_hash):
