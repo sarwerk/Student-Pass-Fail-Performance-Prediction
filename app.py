@@ -126,6 +126,11 @@ def predict_student(bundle, model_name, student_input):
     proba = model.predict_proba(X_use)[0]
     return pred, proba
 
+Commit 2
+Prediction button ke upar comment.
+# Predict student result
+Commit
+refactor: improve code readability
 
 # --------------------------------------------------------------------------
 # D) EXPLAINABILITY MODULE
