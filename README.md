@@ -121,3 +121,11 @@ privacy concerns to disclose.
 - Uses Logistic Regression and Random Forest models.
 - Displays prediction results instantly.
 - Easy to use and beginner-friendly.
+
+## Requirements
+
+- Python 3.10+
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
