@@ -113,3 +113,11 @@ privacy concerns to disclose.
   could be added.
 - The app currently supports single-student predictions; batch CSV upload
   and prediction could be added as a future improvement.
+
+## Features
+
+- Predicts student pass/fail using Machine Learning.
+- Interactive Streamlit web interface.
+- Uses Logistic Regression and Random Forest models.
+- Displays prediction results instantly.
+- Easy to use and beginner-friendly.
