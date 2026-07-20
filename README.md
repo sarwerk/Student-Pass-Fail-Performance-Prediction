@@ -25,6 +25,27 @@ source venv/bin/activate      # Windows: venv\Scripts\activate
 # 3. Install dependencies
 pip install -r requirements.txt
 ```
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/sarwerk/Student-Pass-Fail-Performance-Prediction.git
+```
+
+2. Go to the project folder
+```bash
+cd Student-Pass-Fail-Performance-Prediction
+```
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the application
+```bash
+streamlit run app.py
+```
 
 ## 3. Run
 
